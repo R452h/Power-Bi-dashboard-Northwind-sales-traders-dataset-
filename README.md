@@ -1,69 +1,81 @@
+# 📊 Northwind Traders Sales Analysis
+
+## 🏆 Project Overview
+
+This capstone project focuses on uncovering valuable business insights from the **Northwind Traders** dataset using **Power BI**, **SQL**, and **Excel**. It analyzes historical sales data, customer behavior, inventory flow, employee performance, and supplier efficiency to support **data-driven decision-making**.
+
+> 📚 *The Northwind dataset is a popular sample database used in analytics and BI training, simulating operations of a product distribution company.*
 
 
-# 📊 Northwind Traders Sales Analytics Dashboard
 
-## 📌 Project Overview
+## 🔍 Project Objectives
 
-This capstone project presents an interactive Power BI dashboard designed for Northwind Traders, offering actionable insights into sales trends, customer segmentation, employee productivity, inventory flow, and supplier performance. The aim is to support data-driven decision-making by visualizing real-time and historical data in an intuitive format.
+The analysis is divided into five key areas to provide a 360° view of business operations:
 
-## 🎯 Objective
+### 📈 1. Sales Performance Analysis
 
-To empower Northwind Traders with a centralized analytics dashboard that:
+* Identified **top-selling products** and their contribution to total revenue.
+* Analyzed **monthly and yearly sales trends** to pinpoint seasonal peaks.
+* Visualized **regional and category-wise sales distribution**.
 
-* Visualizes sales performance over time
-* Tracks customer behavior by demographics, geography, and purchase patterns
-* Monitors employee performance and tenure
-* Analyzes product and supplier efficiency
-* Enhances operational decision-making and strategic planning
+### 🎯 2. Customer Segmentation
 
-## 📂 Data Sources
+* Segmented customers based on **purchase frequency** and **order value**.
+* Highlighted **high-value (VIP) customers** for loyalty strategies.
+* Uncovered **buying patterns** to improve campaign targeting.
 
-* **Northwind Database** (SQL queries used for data extraction)
-* **Tables used**: Customers, Employees, Orders, Products, Suppliers, Shippers, Categories
+### 📦 3. Inventory Trends & Stock Analysis
 
-## 📈 Key Insights
+* Classified products into **fast-moving** and **slow-moving** items.
+* Flagged potential **stockout scenarios** and optimized **inventory turnover rate**.
+* Provided insights into **demand forecasting**.
 
-* **Top Markets**: USA, France, and Germany lead in customer volume
-* **Sales Trends**: Increasing order volume in 1996 with noticeable seasonal fluctuations
-* **Customer Segmentation**: 65% occasional vs 35% premium customers
-* **Product Sales**: Beverages and Dairy Products are top contributors
-* **Order Value**: Majority of orders below \$10,000
-* **Employee Productivity**: Sales reps outperform other roles; productivity varies by employee
-* **Supplier Trends**: Europe hosts the largest supplier base; cost and ratings vary widely
-* **Geographic Demand**: Certain regions favor specific product categories
+### 🏅 4. Employee Performance Evaluation
 
-## 📌 Dashboard Features
+* Measured **sales contributions** per employee.
+* Identified **top performers** driving the majority of revenue.
+* Tracked **performance consistency** over time.
 
-* 🔎 **Interactive Filters** for drill-down analytics
-* 🧭 **Heatmaps, Bar & Line Charts, Treemaps, Radar & Box Plots**
-* 📍 **Geo Maps** to track supplier and customer distribution
-* 📤 **Real-Time Sales Trends**
-* 👤 **Employee & Customer Segmentation Visuals**
+### ⭐ 5. Supplier Ratings & Performance
 
-## 🧠 Recommendations
+* Evaluated suppliers based on **product availability** and **order fulfillment rate**.
+* Identified suppliers with **delivery delays** or **quality issues**.
+* Used **Radar Chart** visualization to compare performance across suppliers.
 
-* Expand into underrepresented markets
-* Offer targeted promotions for mid-income groups
-* Address processing time outliers to improve efficiency
-* Focus on employee training for underperformers
-* Optimize inventory based on sales trends and seasonal patterns
-* Negotiate with suppliers showing pricing outliers
 
-## 🛠️ Tools Used
 
-* **Power BI**: Dashboard creation and visual analytics
-* **SQL**: Data extraction and transformation
-* **Microsoft Excel**: Data pre-processing
+## 🛠️ Tools & Technologies Used
 
-## 📌 Problem Statements Answered
+| Tool/Technology | Purpose                                                    |
+| --------------- | ---------------------------------------------------------- |
+| **Power BI**    | Interactive dashboards and visual storytelling             |
+| **SQL**         | Data extraction, cleaning, transformation, and aggregation |
+| **DAX**         | Advanced metrics and KPI calculations                      |
+| **Excel**       | Initial data exploration and validation                    |
 
-* **How does customer distribution vary by country and income?**
-* **What are the seasonal patterns in order volume?**
-* **Which employees and suppliers are the most efficient?**
-* **What are the most and least profitable product categories?**
-* **How do customer preferences change by region?**
-* **Can we identify outliers in pricing and processing times?**
 
+
+## 📊 Key Insights & Business Impact
+
+| Insight Area              | Key Findings                                                                                                        |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 🚀 **Top Products**       | The top 5 products contributed to **X%** of total revenue, highlighting their importance in sales strategy.         |
+| 📈 **Sales Trends**       | Peak sales were observed during **\[Month/Year]**, enabling better stock planning and promotions.                   |
+| 🏅 **Customer Insights**  | **\[Number]** VIP customers accounted for a large share of revenue – potential for personalized retention programs. |
+| 📦 **Inventory Gaps**     | **\[Number]** products experienced frequent stockouts, signaling a need for improved inventory forecasting.         |
+| 🎯 **Employee Impact**    | Top **X** employees generated **Y%** of total revenue, offering scope for performance-based incentives.             |
+| ⭐ **Supplier Evaluation** | Supplier **\[Name]** ranked highest in delivery performance, while **\[Name]** needed quality improvement.          |
+
+
+
+## ✅ Outcomes
+
+* Delivered a **centralized BI dashboard** for stakeholders.
+* Enabled **strategic planning** in sales, supply chain, and human resources.
+* Helped optimize **marketing, inventory management, and supplier engagement**.
+
+
+<img width="1920" height="1080" alt="POWER BI SALES DASHBOARD" src="https://github.com/user-attachments/assets/dd983a98-5a90-47e7-baf5-2ef7bf372817" />
 
 
 

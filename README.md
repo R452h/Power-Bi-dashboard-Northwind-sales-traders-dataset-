@@ -73,7 +73,8 @@ The analysis is divided into five key areas to provide a 360° view of business 
 * Delivered a **centralized BI dashboard** for stakeholders.
 * Enabled **strategic planning** in sales, supply chain, and human resources.
 * Helped optimize **marketing, inventory management, and supplier engagement**.
-
+  
+## 📊 Power BI Dashboard Preview
 
 <img width="1920" height="1080" alt="POWER BI SALES DASHBOARD" src="https://github.com/user-attachments/assets/dd983a98-5a90-47e7-baf5-2ef7bf372817" />
 

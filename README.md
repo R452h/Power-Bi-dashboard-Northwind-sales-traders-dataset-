@@ -78,5 +78,23 @@ The analysis is divided into five key areas to provide a 360° view of business 
 
 <img width="1920" height="1080" alt="POWER BI SALES DASHBOARD" src="https://github.com/user-attachments/assets/dd983a98-5a90-47e7-baf5-2ef7bf372817" />
 
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/9202f5b6-d561-4e10-bbf0-1ebc04db13c8" />
+
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/a80ce683-f052-4543-88fa-728df6acb5e3" />
+
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/d4a2ee4b-6288-4dad-a140-5b3bed9fe9b3" />
+
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/d7393d2f-15b0-4618-a31b-1a31ed014b61" />
+
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/4c35e4e3-c45c-44fa-8fdf-3d2ac5d98b0a" />
+
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/edea5eac-d706-4444-abc5-d6d3e3532ccd" />
+
+
+
+
+
+
+
 
 

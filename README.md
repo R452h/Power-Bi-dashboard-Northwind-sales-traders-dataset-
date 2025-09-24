@@ -93,7 +93,7 @@ The analysis is divided into five key areas to provide a 360° view of business 
 **📥 Dataset Information**
 The dataset is sourced from the Northwind Traders database, which includes transactional sales data, customer information, order details, and product data. 
 
-**🚀 How to Use This Project **
+**🚀 How to Use This Project**
 
 Download the Power BI PBIX file from this repository.
 

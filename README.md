@@ -90,6 +90,32 @@ The analysis is divided into five key areas to provide a 360° view of business 
 
 <img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/edea5eac-d706-4444-abc5-d6d3e3532ccd" />
 
+**📥 Dataset Information**
+The dataset is sourced from the Northwind Traders database, which includes transactional sales data, customer information, order details, and product data. 
+
+**🚀 How to Use This Project **
+
+Download the Power BI PBIX file from this repository.
+
+Load the dataset into Power BI or SQL Server.
+
+Explore the interactive dashboards to analyze business insights.
+
+Modify SQL queries or DAX calculations for custom analysis.
+
+**🌟 Future Enhancements**
+
+🔹 Incorporate Machine Learning models for sales forecasting.
+
+🔹 Automate data refresh using Power BI service and scheduled refreshes.
+
+🔹 Enhance customer churn prediction based on past purchase behavior.
+
+🔹 Add real-time data integration with APIs or cloud databases.
+
+**👨‍💻 About Me**
+Hi! I’m Sushant Raj, a passionate Data Analyst & Data Scientist specializing in data visualization, business intelligence, and analytics. I have experience working with SQL, Power BI, and advanced data modeling techniques.
+
 
 
 
